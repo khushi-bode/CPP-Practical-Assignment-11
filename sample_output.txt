@@ -1,0 +1,11 @@
+Sample input:
+5
+40 10 30 20 50
+
+Program output:
+STANDARD TEMPLATE LIBRARY (STL)
+Enter the number of elements: Enter 5 integer elements:
+
+Original elements: 40 10 30 20 50 
+Sorted elements: 10 20 30 40 50 
+Reversed elements: 50 40 30 20 10 
